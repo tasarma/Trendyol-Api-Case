@@ -1,2 +1,1 @@
-# TrendyolTestCases
-Soptify API Test and Trendyol UI Test
+# Trendyol-Spotify-API-Cases
