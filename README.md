@@ -1,1 +1,1 @@
-# Trendyol-Spotify-API-Cases
+# Trendyol-Spotify-API-Case
